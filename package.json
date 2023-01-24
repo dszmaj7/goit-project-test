@@ -3,10 +3,10 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://dszmaj7.github.io/goit-project",
+  "homepage": "https://dszmaj7.github.io/goit-project-test",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-project/"
+    "build": "parcel build src/*.html --public-url /goit-project-test/"
   },
   "repository": {
     "type": "git",
